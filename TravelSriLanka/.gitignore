@@ -1,0 +1,30 @@
+# Dependencies
+**/[Bb]in/
+**/[Oo]bj/
+
+# Tooling
+.config/
+
+# User-specific files
+*.user
+*.suo
+
+# Build results
+[Bb]uild/
+[Rr]elease/
+[Dd]ebug/
+
+# EF Core Migrations (sometimes auto-generated in unexpected places if not configured)
+# src/Infrastructure/Data/Migrations/ # Handled by specific output path, but good to be aware
+
+# Rider specific
+.idea/
+
+# VS Code specific
+.vscode/
+
+# Mac specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
